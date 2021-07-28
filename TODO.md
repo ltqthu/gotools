@@ -1,0 +1,11 @@
+
+- [ ] 读取命令行参数
+- [ ] 搜索windows系统include路径
+- [ ] 搜索ubuntu系统include路径
+- [ ] 搜索centos系统include路径
+- [ ] 搜索mac系统include路径
+- [ ] 创建c_cpp_properties.json
+- [ ] 创建launch.json
+- [ ] 创建settings.json
+- [ ] 创建tasks.json
+- [ ] 创建.clang-format
